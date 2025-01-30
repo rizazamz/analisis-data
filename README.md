@@ -31,7 +31,7 @@
 
     Jalankan perintah berikut untuk menampilkan dashboard:
 
-    streamlit run hello-world.py
+    streamlit run dashboard/dashboard.py
 
     Halaman dashboard akan otomatis terbuka di browser Anda!
 
